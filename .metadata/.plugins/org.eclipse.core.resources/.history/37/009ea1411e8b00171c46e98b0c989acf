@@ -6,6 +6,5 @@
 ## 002：javacコマンド
 * javacコマンドが使用するJavaのバージョンを出力するコマンドを実行せよ。
 
-Answer:
-javac -version
+Answer
 

@@ -60,3 +60,8 @@ Binding(COMMAND+SHIFT+-,
 
 !ENTRY org.eclipse.core.net 1 0 2017-08-27 13:48:10.371
 !MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.resources 2 2 2017-08-27 20:51:00.428
+!MESSAGE 保管操作の警告。
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2017-08-27 20:51:00.428
+!MESSAGE 'RemoteSystemsTempFiles' のプロジェクト記述ファイル (.project) がありませんでした。 このファイルには、プロジェクトに関する重要な情報が含まれています。 新しいプロジェクト記述ファイルが作成されましたが、プロジェクトに関する情報の一部が破損している可能性があります。
