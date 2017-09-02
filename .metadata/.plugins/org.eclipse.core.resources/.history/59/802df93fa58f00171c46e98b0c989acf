@@ -1,0 +1,9 @@
+public class answer {
+	
+	
+	private answer() {
+		this.name = "no name";
+	}
+	
+	
+}
