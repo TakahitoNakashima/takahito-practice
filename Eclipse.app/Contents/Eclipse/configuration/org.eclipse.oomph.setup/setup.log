@@ -1,0 +1,23 @@
+[2017-08-27 22:31:00] Executing startup tasks
+[2017-08-27 22:31:01] Product self.product.version
+[2017-08-27 22:31:01] Bundle org.eclipse.oomph.setup 1.2.0.v20150915-0926, build=1789, branch=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6, commit=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6
+[2017-08-27 22:31:01] Bundle org.eclipse.oomph.setup.core 1.2.0.v20150915-0926, build=1789, branch=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6, commit=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6
+[2017-08-27 22:31:01] Bundle org.eclipse.oomph.setup.p2 1.2.0.v20150915-0926, build=1789, branch=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6, commit=ff5f7c46aa57e08f831c3cd10fd3ed7606b75cd6
+[2017-08-27 22:31:01] Performing Preference /instance/org.eclipse.ant.ui/useAnnotationsPrefPage = true
+[2017-08-27 22:31:01] Performing Preference /instance/org.eclipse.ant.ui/useQuickDiffPrefPage = true
+[2017-08-27 22:31:01] Performing Preference /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.forbiddenReference = ignore
+[2017-08-27 22:31:01] Performing Preference /instance/org.eclipse.jdt.debug/org.eclipse.jdt.debug.default_breakpoint_suspend_policy = 2
+[2017-08-27 22:31:01] Performing Preference /instance/org.eclipse.jdt.debug/org.eclipse.jdt.debug.PREF_HCR_WITH_COMPILATION_ERRORS = true
+[2017-08-27 22:31:01] Performing Preference /instance/org.eclipse.jdt.debug/org.eclipse.jdt.debug.PREF_REQUEST_TIMEOUT = 3000
+[2017-08-27 22:31:01] Performing Preference /instance/org.eclipse.jdt.debug/org.eclipse.jdt.debug.suspend_for_breakpoints_during_evaluation = true
+[2017-08-27 22:31:01] Performing Preference /instance/org.eclipse.jdt.debug/org.eclipse.jdt.debugdefault_watchpoint_suspend_policy = 0
+[2017-08-27 22:31:01] Performing Preference /instance/org.eclipse.jdt.junit/org.eclipse.jdt.junit.show_in_all_views = false
+[2017-08-27 22:31:01] Performing Preference /instance/org.eclipse.jdt.junit.core/org.eclipse.jdt.junit.enable_assertions = false
+[2017-08-27 22:31:01] Performing Preference /instance/org.eclipse.jdt.launching/org.eclipse.jdt.launching.only_include_exported_classpath_entries = false
+[2017-08-27 22:31:01] Performing Preference /instance/org.eclipse.jdt.launching/org.eclipse.jdt.launching.PREF_CONNECT_TIMEOUT = 20000
+[2017-08-27 22:31:01] Performing Preference /instance/org.eclipse.jdt.ui/sourceHoverBackgroundColor = 236,235,236
+[2017-08-27 22:31:01] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.defaultRuntime = EMBEDDED
+[2017-08-27 22:31:01] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.problem.duplicateParentVersion = warning
+[2017-08-27 22:31:01] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimes = 
+[2017-08-27 22:31:01] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.WorkspacelifecycleMappingsLocation = /Users/TakahitoNakashima/JavaWorkspace/.metadata/.plugins/org.eclipse.m2e.core/lifecycle-mapping-metadata.xml
+[2017-08-27 22:31:01] 

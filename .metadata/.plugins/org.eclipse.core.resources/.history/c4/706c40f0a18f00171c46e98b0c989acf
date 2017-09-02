@@ -1,0 +1,20 @@
+class answer {
+	private String name;
+	
+	public answer() {
+		this.name = "no name";
+	}
+	public answer(String name) {
+		this.name = name;
+	}
+	
+	public static void main(String args[]) {
+		String withoutName = new answer();
+		String withName = new answer("Takahito");
+		
+		System.out.println(withoutName);
+		System.out.println(withName);
+	}
+	
+	
+}
