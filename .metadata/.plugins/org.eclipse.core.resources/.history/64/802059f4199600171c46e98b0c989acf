@@ -1,0 +1,27 @@
+import org.apache.log4j.BasicConfigurator;
+import org.apache.log4j.Logger;
+ 
+/**
+ *  log4j 1.2 コンソールにログを出力するサンプル
+ */
+class Sample {
+	
+	private Logger logger = Logger.getLogger(Sample.class);
+ 
+	void runSample(){
+ 
+		//本来手動で設定する出力内容を自動で設定してくれている
+		BasicConfigurator.configure();
+ 
+		int a = 1;
+ 
+		logger.info("info" + a); //0 [main] INFO test1.Sample  - info1　←出力される内容
+ 
+	}
+}
+public class Main {
+	public static void main(String[] args) {
+		Sample s = new Sample();
+		s.runSample();
+ 	}
+}
