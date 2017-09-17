@@ -4,6 +4,7 @@ import org.apache.log4j.BasicConfigurator;
 import org.apache.log4j.Logger;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
+import org.jsoup.select.Elements;
  
 /**
  *  log4j 1.2 コンソールにログを出力するサンプル
@@ -31,6 +32,8 @@ public class main {
 		Document document = Jsoup.connect("http://qiita.com/search")
 								 .data("q", "java")
 				                 .get();
+		Elements elements = document.select(".brand, .page-title, .stats");
+		
         System.out.println(document.html());
  	}
 }

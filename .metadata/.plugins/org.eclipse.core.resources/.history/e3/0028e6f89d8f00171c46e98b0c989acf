@@ -1,9 +1,0 @@
-public class answer {
-	
-	public static answer() {
-		this.name = 'no name';
-	}
-	public static answer(String name) {
-		this.name = name;
-	}
-}
