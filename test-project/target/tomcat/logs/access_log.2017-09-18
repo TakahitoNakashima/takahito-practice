@@ -1,0 +1,1 @@
+0:0:0:0:0:0:0:1 - - [18/Sep/2017:16:10:41 +0900] "GET /test-project/status HTTP/1.1" 200 3 http-bio-8080-exec-1 42
